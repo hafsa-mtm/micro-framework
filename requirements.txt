@@ -1,0 +1,6 @@
+numpy 
+python-math
+graphviz 
+matplotlib 
+pandas
+jupyter 
